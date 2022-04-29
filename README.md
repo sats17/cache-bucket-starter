@@ -23,7 +23,7 @@ Versions
 ```yaml
 cachebucket:
   capacity: 150
-  ttl: 5000 # ttl in milliseconds
+  ttl: 5000 # ttl in milliseconds, if not mentioned then cache will not expire
 ```
 
 
